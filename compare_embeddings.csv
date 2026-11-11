@@ -1,0 +1,5 @@
+﻿model,ten_day_du,Hit@3,Hit@5,Hit@3_rut_gon,Hit@5_rut_gon,tuot@3,tuot@5,thoi_gian
+minilm,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,90%,95%,95%,100%,F04 F13,F13,17s
+minilm-norm,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,85%,95%,95%,100%,F04 F13 F20,F13,8s
+e5-small,intfloat/multilingual-e5-small,100%,100%,100%,100%,-,-,49s
+e5-base,intfloat/multilingual-e5-base,100%,100%,100%,100%,-,-,92s
